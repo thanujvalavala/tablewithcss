@@ -1,0 +1,25 @@
+table,th,td{
+			border:1px solid black;
+			border-collapse:collapse;
+		}
+th{
+		background-color:red;
+	}
+.t{
+	color:black;
+}
+.d{
+	color:blue;
+}
+#hg{
+    color:orange;	
+}
+h1{
+	color:blue;
+	text-align:center;
+}
+table{
+	margin-left: 250px;
+}
+
+	
